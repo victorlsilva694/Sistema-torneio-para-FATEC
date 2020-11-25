@@ -11,5 +11,3 @@ Com intuito de melhorar o aprendizado e a fixação de todo o conteudo visto em 
     Por mais que o sistema seja baseado em uma competição o foco principal do sistema é a aprendizagem do aluno ou dos participantes. Os professores vão enviar as 
   tarefas que forem propostas durante a data que for realizada a competição,. Conforme os alunos enviam as tarefas terão um ranking, esse ranking ficará no fim de cada partida,
   ou seja, os participantes estão "Competindo" e ao mesmo tempo aprendendo.
-  
-O s
