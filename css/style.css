@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body{
+    background-color: grey;
+}
+.Programming{
+    position: relative;
+    left: 10%;
+    width: 80%;
+    height: 200px;
+    background-color: rgb(29, 29, 29);
+    border-radius: 20px;
+}
+.enviarBTN{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(180, 180, 180);
+    position: relative;
+    left: 50px;
+    top: 25%;
+    border-radius: 150px;
+}
+.btnEnv{
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: 1px;
+    width: 100%;
+    height: 100%;
+}
+
+.CircleOff{
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: -155px;
+    left: 45.5%;
+    border-radius: 60px;
+    background-color: rgb(180, 180, 180);
+}
+.ImgProgramming{
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.Title{
+    position: relative;
+    top: -140px;
+    text-align: center;
+    color: white;
+}
+.contentCrypto{
+    position: relative;
+    top: -80px;
+}
+.Exercises{
+    position: relative;
+    width: 80%;
+    height: 1160px;
+    left: 10%;
+    background-color: rgb(29, 29, 29);
+    top: 70px;
+    border-radius: 20px;
+}
+.TitleExercises{
+    position: relative;
+    font-size: 50px;
+    font-family: 'Roboto';
+    top: 15px;
+    text-align: center;
+    color: white;
+}
+.Categories{
+    display: inline-flex ;
+    width: 20%;
+    height: 80px;
+    position: relative;
+    background-color: rgb(2, 90, 75);
+    border-color: transparent;
+    top: 140px;
+    left: 50px;
+    border-radius: 20px;
+}
+.Submit{
+    width: 20%;
+    height: 80px;
+    position: relative;
+    background-color: rgb(2, 90, 75);
+    left: 76%;
+    top: 58px;
+    border-radius: 20px;
+}
+.Descrição{
+    color: white;
+    font-family: 'Roboto';
+    position: relative;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 25px;
+}
+.NameChallenge{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 38px;
+}
+.NameChallenge1{
+    color: white;
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 18px;
+}
+.Sep1{
+    background-color: rgb(59, 59, 59);
+}
+.Sep2{
+    background-color: rgb(59, 59, 59);
+    position: relative;
+    top: -110px;
+}
+.Sep3{
+    background-color: rgb(59, 59, 59);
+    position: relative;
+    top: -160px;
+}
+.Ex1{
+    color: white;
+    position: relative;
+    left: 35px;
+    top: 15px;
+    font-family: 'Roboto';
+    font-size: 32px;
+    padding: 5px;
+}
+.Ex2{
+    color: white;
+    text-align: center;
+    top: 15px;
+    position: relative;
+    top: 15px;
+    font-family: 'Roboto';
+    font-size: 32px;
+    padding: 5px;
+}
+.Input{
+    color: white;
+    position: relative;
+    top: -120px;
+    font-family: 'Roboto';
+    text-align: left;
+    font-size: 25px;
+    padding: 20px;
+}
+.Parag1{
+    color: white;
+    position: relative;
+    font-family: 'Poppins';
+    text-align: left;
+    font-size: 18px;
+    padding: 20px;
+    
+}
+.Parag2{
+    color: white;
+    position: relative;
+    top: -45px;
+    font-family: 'Poppins';
+    text-align: left;
+    font-size: 18px;
+    padding: 20px;
+}
+.Parag3{
+    color: white;
+    position: relative;
+    top: -90px;
+    font-family: 'Poppins';
+    text-align: left;
+    font-size: 18px;
+    padding: 20px;
+}
+.Parag4{
+    color: white;
+    position: relative;
+    top: -145px;
+    font-family: 'Poppins';
+    text-align: left;
+    font-size: 18px;
+    padding: 20px;
+}
+.Output{
+    color: white;
+    position: relative;
+    top: -170px;
+    font-family: 'Roboto';
+    text-align: left;
+    font-size: 25px;
+    padding: 20px;
+}
+.Exercises2{
+    position: relative;
+    width: 80%;
+    height: 1160px;
+    left: 10%;
+    background-color: rgb(29, 29, 29);
+    border-radius: 20px;
+}
+.TitleExercises2{
+    position: relative;
+    font-size: 50px;
+    font-family: 'Roboto';
+    top: 15px;
+    text-align: center;
+    color: white;
+}
+.ContainerDescEnv{
+    display: inline-flex;
+    width: 100%;
+    position: relative;
+    top: 150px;
+}
+.Categories1{
+    position: relative;
+    left: 50px;
+    width: 20%;
+    height: 80px;
+    background-color: rgb(26, 91, 102);
+    border-radius: 20px;
+}
+.Exercises2{
+    position: relative;
+    width: 80%;
+    height: 1160px;
+    left: 10%;
+    background-color: rgb(29, 29, 29);
+    top: 20px;
+    border-radius: 20px;
+}
+.TitleExercise2{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 38px;
+    position: relative;
+    left: 52%;
+}
+.SubTitleExercise2{
+    color: white;
+    position: relative;
+    left: 52%;
+    font-family: 'Poppins';
+    font-Size: 18px;
+}
+.Trying{
+    color: white;
+    position: relative;
+    left: 70%;
+    font-family: 'Poppins';
+    font-Size: 18px;
+}
+.Submit2{
+    width: 20%;
+    height: 80px;
+    position: relative;
+    background-color: rgb(26, 91, 102);
+    left: 28%;
+    border-radius: 20px;
+}
+.Exercise2{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 38px;
+    top: 18px;
+    position: relative;
+}
+.Exercise3{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 38px;
+    top: 18px;
+    position: relative;
+}
+.Sep5{
+    background-color: rgb(59, 59, 59);
+}
+.Paragr1{
+    color: white;
+    position: relative;
+    font-family: 'Poppins';
+    text-align: left;
+    font-size: 18px;
+    padding: 20px;
+}
+.Description{
+    color: white;
+    font-family: 'Roboto';
+    position: relative;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 25px;
+}
+.Input2{
+    color: white;
+    position: relative;
+    font-family: 'Poppins';
+    text-align: left;
+    font-size: 18px;
+    padding: 20px;
+}
+.Output2{
+    color: white;
+    position: relative;
+    font-family: 'Poppins';
+    text-align: left;
+    font-size: 18px;
+    padding: 20px;
+}
+.BtnEnviar{
+    position: relative;
+    top: -10px;
+}
+.env{
+    font-size: 40px;
+    font-family: 'Roboto';
+    color: white;
+}

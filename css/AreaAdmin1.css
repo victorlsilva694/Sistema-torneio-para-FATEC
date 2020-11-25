@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(25,25,32);
+}
+.ImgFatec{
+    position: relative;
+    left: 25%;
+    top: 150px;
+}
+.navbar-nav{
+    padding: 8px;
+}
+.nav-link{
+    font-size: 19px;
+    color: white;
+}
+.nav-link:after{
+    content: '';
+    width: 0;
+    display: block;
+    height: 3px;
+    background: rgb(17, 141, 1);
+    transition: width .5s;
+}
+.nav-link:hover::after{
+    width: 100%;    
+}
+.table{
+    color: white;
+    font-size: 18px;
+}
+.btn{
+    width: 100px;
+    height: 35px;
+}
+a{
+    color: white;
+}

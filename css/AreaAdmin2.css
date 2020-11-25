@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(25,25,32);
+    overflow: hidden;
+}
+.ImgFatec{
+    position: relative;
+    left: 25%;
+    top: 150px;
+}
+.navbar-nav{
+    padding: 8px;
+}
+.form-control{
+    width: 100%;
+}
+.nav-link{
+    font-size: 19px;
+    color: white;
+}
+.nav-link:after{
+    content: '';
+    width: 0;
+    display: block;
+    height: 4px;
+    background: rgb(17, 141, 1);
+    transition: width .5s;
+}
+.nav-link:hover::after{
+    width: 100%;    
+}
+.table{
+    color: white;
+    font-size: 18px;
+}
+.btn{
+    width: 100px;
+    height: 35px;
+}
+a{
+    color: white;
+}
+label{
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+}
+.row{
+    position: relative;
+    left: 36%;
+    width: 1000px;
+}
+.btn{
+    width: 500px;
+}
+.Salvar{
+    width: 50%;
+    background-color: rgb(36, 36, 36);
+    border: 1px solid rgb(25,25,32);
+    height: 50px;
+    color: white;
+}
+.Voltar{
+    width: 50%;
+    background-color: rgb(36, 36, 36);
+    border: 1px solid rgb(25,25,32);
+    border: none;
+    color: white;
+    height: 50px;
+}
+.Lado{
+    display: inline-flex;
+    width: 100%;
+}
+.Voltar:hover{
+    background-color: rgb(54, 54, 54);
+}
+.Salvar:hover{
+    background-color: rgb(54, 54, 54);
+}

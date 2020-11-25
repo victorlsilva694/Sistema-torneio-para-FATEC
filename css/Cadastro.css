@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+body{
+    background-color: rgb(59, 59, 59);
+    overflow: hidden;
+}
+.login{
+    border-radius: 25px;
+    width: 45%;
+    position: relative;
+    height: 580px;
+    position: relative;
+    left: 25%;
+    background-color: rgb(99, 99, 99);
+    top: 80px;
+    color: white;
+}
+.foto{
+    position: relative;
+    left: 26%;
+    top: 30px;
+}
+.FormularioRegidtro{
+    position: relative;
+    top: 75px;
+
+}
+#EmailUser{
+    width: 300px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 54px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left:4%;
+    font-weight: 900;
+}
+#EmailUser1{
+    width: 300px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 54px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left:9%;
+    font-weight: 900;
+}
+.Cadastrar{
+    background-color: rgb(49, 49, 49);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Goldman';
+    font-size: 25px;
+    letter-spacing: 2px;
+    width:640px;
+    position: relative;
+    left: -200px;
+    height: 70px;
+}
+.Cadastrar:hover{
+    background-color: rgb(34, 34, 34);
+}
+.RAEmail{
+    display: inline-flex;
+}
+.inputnome{
+    width: 250px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 14px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left:4px;
+    font-weight: 900;
+}
+.Nome1{
+    display: inline-flex;
+    height: 100px;
+    width: 90%;
+    position: relative;
+    left: 3%;
+    font-family: 'Source Sans Pro';
+}
+#LoginUsr{
+    position: relative;
+    left: 5%;
+    font-family: 'Source Sans Pro';
+    font-size: 19px;
+    top: 11px;
+}
+#EmailUser2{
+    width: 300px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 84px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left:5%;
+    font-weight: 900;
+}
+#EmailUser3{
+    width: 300px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 84px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left:11%;
+    font-weight: 900;
+}
+#EmailUser4{
+    width: 300px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 124px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left:4%;
+    font-weight: 900;
+}
+#EmailUser5{
+    width: 300px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 124px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left:9%;
+    font-weight: 900;
+}
+.inputlogin{
+    width: 250px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 14px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left: 2.5%;
+    font-weight: 900;
+}
+.NomeUsr{
+    position: relative;
+    left: 0%;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    top: 8px;
+}
+.Email1{
+    display: inline-flex;
+    height: 100px;
+    width: 90%;
+    position: relative;
+    left: 3%;
+    font-family: 'Source Sans Pro';
+}
+#EmailUsr{
+    position: relative;
+    left: 0.5%;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    top: 8px;
+}
+.inputEmail{
+    width: 505px;
+    background-color: rgb(210, 210, 210);
+    color: black;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top:54px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left: 4%;
+    font-weight: 900;
+}
+#SenhaUsr{
+    position: relative;
+    left: 2.2%;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    top: 8px;
+}
+#PasswdUser{
+    width: 280px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 14px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left: 2.5%;
+    font-weight: 900;
+}
+.SenhaTelefone{
+    display: inline-flex;
+    height: 100px;
+    width: 90%;
+    position: relative;
+    left: 3%;
+    font-family: 'Source Sans Pro';
+}
+#SenhaUsr1{
+    position: relative;
+    left: 0%;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    top: 8px;
+}
+#PasswdUser1{
+    width: 293px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 14px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left: 1%;
+    font-weight: 900;
+}
+#TelefoneUsr{
+    position: relative;
+    left: 2%;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    top: 8px;
+}
+#TelefoneUser1{
+    width: 293px;
+    background-color: rgb(210, 210, 210);
+    height: 40px;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    position: relative;
+    top: 14px;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    left: 3%;
+    font-weight: 900;
+}
+.BtnEnviar{
+    background-color: rgb(39, 39, 39);
+    width: 500px;
+    height: 70px;
+    border: none;
+    border-radius: 10px;
+    position: relative;
+    left: 4%;
+    top: 90px;
+    color: white;
+    font-family: 'Goldman';
+    font-size: 30px;
+    font-weight: 800;
+}
+.BtnEnviar:hover{
+    background-color: rgb(49, 49, 49);
+}
+.Back{
+    font-size: 22px;
+    font-family: 'Source Sans Pro';
+    color: rgb(0,160,255);
+    position: relative;
+    left: 45%;
+    font-weight: 900;
+    top: 105px;
+    text-decoration: none;
+}
+.MsgCadastro{
+    font-weight: 900;
+    font-family: 'Source Sans Pro';
+    font-size: 25px;
+    position: absolute;
+    top: 577px;
+    left: 27.5%;
+    text-decoration: none;
+    font-style: none;
+    width: 637px;
+    height: 90px;
+    z-index: 9999;
+}
+.BotaoCadastro{
+    font-family: 'Roboto Condensed';
+    font-size: 120px;
+    text-align: center;
+    position: relative;
+    top: 123px;
+    left: 33%;
+    text-decoration: none;
+    font-style: none;
+    width: 300px;
+    height: 90px;
+}
+.back{
+    background-color: transparent;
+    border: none;
+    color: rgb(177, 177, 177);
+    font-weight: bold;
+    font-family: 'Source Sans Pro';
+    font-size:22px;
+    position: relative;
+    left: 82%;
+    top: -61px;
+    text-decoration: none;
+}
+.Voltar{
+    position: relative;
+    z-index: 9999;
+}

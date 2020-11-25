@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+body{
+  background-color: rgb(59, 59, 59);
+}
+.LoginSec{
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.login{
+  border-radius: 35px;
+  width: 30%;
+  height: 450px;
+  position: relative;
+  left: 35%;
+  background-color: rgb(99, 99, 99);
+  top: 85px;
+  color: white;
+}
+.foto{
+  position: relative;
+  left: 18%;
+  top: 55px;
+}
+#EmailUser{
+  position: relative;
+  top: 105px;
+  left: 9%;
+  width: 80%;
+  height: 35px;
+  border-radius: 10px;
+  border-color: transparent;
+  background-color: rgb(190, 190, 190);
+  font-size: 18px;
+  font-family: 'Fira Code';
+}
+#EmailUsr{
+  left: 9%;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: 'Roboto';
+  position: relative;
+  top: 105px;
+}
+#SenhaUsr{
+  left: 9%;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: 'Roboto';
+  position: relative;
+  top: 95px;
+}
+#PasswdUser{
+  position: relative;
+  top: 155px;
+  left: 9%;
+  width: 80%;
+  height: 35px;
+  border-radius: 10px;
+  border-color: transparent;
+  background-color: rgb(190, 190, 190);
+  font-size: 18px;
+  font-family: 'Fira Code';
+}
+.Enviar{
+  position: relative;
+  top: 200px;
+  left: 10%;
+  width: 80%;
+  height: 50px;
+  color: white;
+  font-family: 'Goldman';
+  font-size: 20px;
+  border-radius: 8px;
+  border-color: transparent;
+  background-color: rgb(29, 29, 29);
+}
+.Enviar:hover{
+  background-color: rgb(59, 59, 59);
+}
+.Cadastrar{
+  position: relative;
+  top: 180px;
+  left: 9%;
+  width: 80%;
+  height: 50px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  border-radius: 10px;
+  border-color: transparent;
+  background-color: rgb(29, 29, 29);
+}
+.Cadastrar:hover{  
+  background-color: rgb(73, 117, 14);
+}
+#loginfundo{
+  height: 600px;
+}
+.RCadastro{
+  color: rgb(201, 201, 201);
+  font-size: 18px;
+  text-align: left;
+  font-family: 'Source Sans Pro';
+  text-decoration: none;
+  position: relative;
+  top: 180px;
+  left: 11%;
+}
+.linkCadastro{
+  color: rgb(0,160,255);
+  font-weight: 900;
+  font-size: 22px;
+  text-align: left;
+  font-family: 'Source Sans Pro';
+  text-decoration: none;
+  position: relative;
+  left: 69%;
+  top: 75px;
+}
+.RecuperarSenha{
+  color: white;
+  font-family: 'Roboto Condensed';
+  font-size: 20px;
+  color: rgb(219, 219, 219);
+  text-align: center;
+  position: relative;
+  top: 142px;
+  left: 33%;
+  text-decoration: none;
+  font-style: none;
+}
+.MsgCadastro{
+  font-weight: 900;
+  font-family: 'Source Sans Pro';
+  font-size: 22px;
+  position: absolute;
+  top: 597px;
+  left: 38.5%;
+  text-decoration: none;
+  font-style: none;
+  width: 637px;
+  height: 90px;
+  z-index: 9999;
+}
+.BotaoCadastro{
+  position: relative;
+  top: -42px;
+  z-index: 9999;
+}
